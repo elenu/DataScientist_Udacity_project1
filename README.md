@@ -128,7 +128,7 @@ This project is part of the **Udacity Data Scientist Nanodegree** (Course 1, Pro
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/medical-genetics-cost-analysis.git
+   git clone https://github.com/elenu/medical-genetics-cost-analysis.git
    cd medical-genetics-cost-analysis
    ```
 
@@ -248,7 +248,7 @@ This project is provided for educational purposes as part of the Udacity Data Sc
 **Elena Eyre**  
 Data Science Student | Healthcare Data Analysis  
 Medium: [@elenueyre](https://medium.com/@elenueyre)  
-GitHub: [yourusername](https://github.com/yourusername)
+GitHub: [elenu](https://github.com/elenu)
 
 ---
 
