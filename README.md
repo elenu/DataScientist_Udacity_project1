@@ -31,11 +31,7 @@ This project is part of the **Udacity Data Scientist Nanodegree** (Course 1, Pro
 .
 ├── README.md                                    # This file
 ├── Medical_Genetics_and_Genomics.csv           # Raw dataset (42,966 ZIP codes)
-├── my_EDA_and_MLmodel.ipynb                    # Complete analysis notebook
-├── Medium_Post_Draft.md                         # Blog post markdown
-├── cost_intensity_map.png                       # State-level cost visualization
-├── medicare_cms_logo.png                        # Healthcare branding header
-└── .gitignore                                   # Git ignore file
+└── my_EDA_and_MLmodel.ipynb                    # Complete analysis notebook
 ```
 
 ---
